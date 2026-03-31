@@ -1,0 +1,14 @@
+C:\Users\Anderson\CursoProj1\bin\Debug\net10.0\CursoProj1.exe
+C:\Users\Anderson\CursoProj1\bin\Debug\net10.0\CursoProj1.deps.json
+C:\Users\Anderson\CursoProj1\bin\Debug\net10.0\CursoProj1.runtimeconfig.json
+C:\Users\Anderson\CursoProj1\bin\Debug\net10.0\CursoProj1.dll
+C:\Users\Anderson\CursoProj1\bin\Debug\net10.0\CursoProj1.pdb
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\CursoProj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\CursoProj1.AssemblyInfoInputs.cache
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\CursoProj1.AssemblyInfo.cs
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\CursoProj1.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\CursoProj1.dll
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\refint\CursoProj1.dll
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\CursoProj1.pdb
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\CursoProj1.genruntimeconfig.cache
+C:\Users\Anderson\CursoProj1\obj\Debug\net10.0\ref\CursoProj1.dll
