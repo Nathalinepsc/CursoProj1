@@ -6,8 +6,7 @@
 //Nota: Este programa é apenas para fins educacionais e não deve ser usado como uma ferramenta de diagnóstico médico. Para avaliações de saúde, consulte um profissional de saúde qualificado.
 
 
-Console.WriteLine("Hello, World!");
-
+Console.WriteLine();
 Console.Write("Digite seu nome: ");
 string nome = Console.ReadLine();
 
@@ -23,8 +22,12 @@ double altura = double.Parse(Console.ReadLine());
 double imc = peso / (altura * altura);
 
 Console.WriteLine();
-Console.WriteLine($"Nome: {nome}, Idade: {idade} anos.");
-Console.WriteLine($"Seu IMC é: {imc:F2}");
+Console.WriteLine("===============================");
+Console.WriteLine($"Olá, {nome}!");
+Console.WriteLine($"Idade: {idade} anos");
+Console.WriteLine($"Peso: {peso} kg");
+Console.WriteLine($"Altura: {altura} cm");
+Console.WriteLine($"Seu IMC é: {imc:F2}!");
 
 if (imc < 18.5)
 {
@@ -42,4 +45,6 @@ else
 {
     Console.WriteLine("Classificação: Obesidade");
 }
+Console.WriteLine("===============================");
+Console.WriteLine();
 
